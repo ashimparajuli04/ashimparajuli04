@@ -27,9 +27,6 @@
 
 ## ⚡ Stats ⚡
 
-[![streak stats](https://streak-stats.demolab.com?user=ashimparajuli04&count_private=true&theme=dark&border_radius=10&background=0D1117)](https://github.com/ashimparajuli04) [![readme stats](https://github-readme-stats.vercel.app/api?username=ashimparajuli04&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10)](https://github.com/ashimparajuli04) [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashimparajuli04&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github.com/ashimparajuli04)
-
+[![streak stats](https://streak-stats.demolab.com?user=ashimparajuli04&count_private=true&theme=dark&border_radius=10&background=0D1117)](https://github.com/ashimparajuli04)
 ---
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ashimparajuli04&label=Profile+views&color=blue&style=flat" alt="Profile views" /> </p>
-[![](https://visitcount.itsvg.in/api?id=ashimparajuli04&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
+![Profile Views](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ashimparajuli04/ashimparajuli04/main/views-badge.json)

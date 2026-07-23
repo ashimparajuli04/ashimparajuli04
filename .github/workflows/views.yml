@@ -1,0 +1,44 @@
+name: Update View Count
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # once a day at midnight UTC
+  workflow_dispatch: {}  # allows manual trigger from the Actions tab
+
+jobs:
+  update-views:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch traffic views
+        id: traffic
+        run: |
+          COUNT=$(curl -s \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/${{ github.repository }}/traffic/views \
+            | jq '.count')
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: Write badge JSON
+        run: |
+          cat <<EOF > views-badge.json
+          {
+            "schemaVersion": 1,
+            "label": "profile views",
+            "message": "${{ steps.traffic.outputs.count }}",
+            "color": "blue"
+          }
+          EOF
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add views-badge.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update view count"
+          git push
