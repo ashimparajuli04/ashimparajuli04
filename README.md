@@ -32,3 +32,4 @@
 ---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashimparajuli04&label=Profile+views&color=blue&style=flat" alt="Profile views" /> </p>
+[![](https://visitcount.itsvg.in/api?id=ashimparajuli04&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
