@@ -1,13 +1,9 @@
-<h1 align="center">Hi, I'm Ashim Parajuli 👋</h1>
-<p align="center">Full-Stack Developer • BSc CSIT Student • Nepal</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I'm+Ashim+Parajuli!;)](https://git.io/typing-svg)
 
-<p align="center">
-  Building practical software end-to-end — from database design to deployed product.
-</p>
+### A passionate software developer from Nepal 🇳🇵
 
-<p align="center">
-  <a href="https://ashimparajuli.com.np">🌐 ashimparajuli.com.np</a>
-</p>
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashimparajuli04@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashim-parajuli-17695032a/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ashimparajuli.com.np)
 
 ---
 
@@ -23,30 +19,16 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
+## 🐍 My Contributions 🐍
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashimparajuli04&show_icons=true&hide_border=true&theme=default&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimparajuli04&layout=compact&hide_border=true&theme=default" alt="Top langs" />
-</p>
-
-### 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashimparajuli04&theme=default&hide_border=true" alt="GitHub streak" />
-</p>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashimparajuli04/ashimparajuli04/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+[![snake eating my contributions](https://raw.githubusercontent.com/ashimparajuli04/ashimparajuli04/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/ashimparajuli04/ashimparajuli04/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-<p align="center"><i>Learning by building.</i></p>
+## ⚡ Stats ⚡
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashimparajuli04&label=Profile+views&color=blue&style=flat" alt="Profile views" />
-</p>
+[![streak stats](https://streak-stats.demolab.com?user=ashimparajuli04&count_private=true&theme=dark&border_radius=10&background=0D1117)](https://github.com/ashimparajuli04) [![readme stats](https://github-readme-stats.vercel.app/api?username=ashimparajuli04&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10)](https://github.com/ashimparajuli04) [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashimparajuli04&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github.com/ashimparajuli04)
+
+---
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ashimparajuli04&label=Profile+views&color=blue&style=flat" alt="Profile views" /> </p>
