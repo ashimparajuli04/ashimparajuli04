@@ -33,7 +33,7 @@
 <img src="https://streak-stats.demolab.com?user=ashimparajuli04&count_private=true&theme=dark&border_radius=10&background=0D1117" alt="streak stats" />
 </td>
 <td align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimparajuli04&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ashimparajuli04&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </td>
 </tr>
 </table>
